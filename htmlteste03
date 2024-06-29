@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #333;
+        }
+        article {
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #333;
+        }
+        article p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Blog do João Afonso</h1>
+    </header>
+    <main>
+        <article>
+            <h2>Como começar com HTML5</h2>
+            <p>Aqui estão algumas dicas úteis para começar a aprender HTML5...</p>
+            <a href="#">Leia mais</a>
+        </article>
+        <article>
+            <h2>Dicas avançadas de CSS3</h2>
+            <p>Descubra algumas técnicas avançadas para aprimorar seus estilos CSS...</p>
+            <a href="#">Leia mais</a>
+        </article>
+    </main>
+    <footer>
+        <p>&copy; 2024 João Afonso. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
